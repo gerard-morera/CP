@@ -38,18 +38,16 @@ Due to the time I have been travelling and the great amount of people I met I ha
 #### Makers Academy (May 2015 - August 2015)
 
   What I learnt:
-  
-   - Independent learner and problem-solver
    
-   - OOP, TDD, SOLID, MVC, DDD
+   - Ruby, Rails, Javascript, Node.js, Angular.js.
    
-   - Ruby, Rails, Javascript, Node.js, Angular.js
+   - TDD, BDD with Rspec, capybara, Jasmine, Karma & Protractor.
    
-   - Rspec, Jasmine
+   - Pair programming.
    
-   - Pair programming
+   - Agile methodology. 
    
-   - Agile methodology
+   - Independent learner and problem-solver.
 
 #### Coursera, courses (March 2015 - May 2015)
 University of California, Berkeley.
