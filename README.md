@@ -25,13 +25,13 @@ Due to the time I have been travelling and the great amount of people I met I ha
 
 #### Languages
 
-- Spanish: Native
+- Spanish: Native.
 
-- Catalan: Native
+- Catalan: Native.
  
-- English: Fluent
+- English: Fluent.
  
-- French:  Intermediate level
+- French:  Intermediate level.
 
 ## Education
 
@@ -45,7 +45,7 @@ Due to the time I have been travelling and the great amount of people I met I ha
    
    - Pair programming.
    
-   - Agile methodology. 
+   - Agile methodology, SCRUM.
    
    - Independent learner and problem-solver.
 
