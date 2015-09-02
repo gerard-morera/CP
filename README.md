@@ -45,7 +45,7 @@ Due to the time I have been travelling and the great amount of people I met I ha
    
    - Pair programming.
    
-   - Agile methodology, SCRUM.
+   - Agile methodology, SCRUM, GIT.
    
    - Independent learner and problem-solver.
 
