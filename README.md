@@ -108,7 +108,7 @@ University of Washington.
    - Building skills.
    - Ability to translate 2D drawings into 3D visuals. 
 
-- Eau Vivante, France (2013).  Wood craftman, permaculture.
+#### Eau Vivante, France (2013).  Wood craftman, permaculture.
 
   What I learnt:
 
