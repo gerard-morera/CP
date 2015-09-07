@@ -125,7 +125,7 @@ University of Washington.
 
    What I learnt:
    
-    - Hability to break down and explaining complex problems.
+   - Hability to break down and explaining complex problems.
   
 ## Some other interests...
  
