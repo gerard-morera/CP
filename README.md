@@ -90,19 +90,19 @@ University of Washington.
 
 ## Experience
 
-- Alter Orbis (2005 - 2015). Non profit organitzation.
+#### Alter Orbis (2005 - 2015). Non profit organitzation.
   Volunteer teacher - various subjects including Spanish, Catalan and reading the alphabet. 
   Advocate for people in economic difficulty to obtain accommodation and social support services.
 
   What I learnt:
    - To understand people suffering.
 
-- L'Hostal, Spain (2014). Waiter.
+#### L'Hostal, Spain (2014). Waiter.
 
   What I learnt:
    - Work in a high pressure envioroment.
 
-- Ziggy Constructions, England (2013). Builder.
+#### Ziggy Constructions, England (2013). Builder.
  
   What I learnt:
    - Building skills.
@@ -115,12 +115,12 @@ University of Washington.
   - The ability to think and create in three dimensions.
   - Working with creativity.
 
-- Talia Hotel, Czech Republic (2012). Hotel receptionist. 
+#### Talia Hotel, Czech Republic (2012). Hotel receptionist. 
 
   What I learnt:
    - Having a professional manner with an emphasis on client service.
 
-- Private Physics and Math Teacher, Spain (2008 - 2012).
+#### Private Physics and Math Teacher, Spain (2008 - 2012).
 
    What I learnt:
     - Hability to break down and explaining complex problems.
