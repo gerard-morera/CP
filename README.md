@@ -118,11 +118,13 @@ University of Washington.
 #### Talia Hotel, Czech Republic (2012). Hotel receptionist. 
 
   What I learnt:
+  
    - Having a professional manner with an emphasis on client service.
 
 #### Private Physics and Math Teacher, Spain (2008 - 2012).
 
    What I learnt:
+   
     - Hability to break down and explaining complex problems.
   
 ## Some other interests...
