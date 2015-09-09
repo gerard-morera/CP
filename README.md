@@ -97,6 +97,12 @@ University of Washington.
   What I learnt:
    - To understand people suffering.
 
+#### Private Physics and Math Teacher, Spain (2008 - 2014).
+
+   What I learnt:
+   
+   - Hability to break down and explaining complex problems.
+  
 #### L'Hostal, Spain (2014). Waiter.
 
   What I learnt:
@@ -121,12 +127,6 @@ University of Washington.
   
    - Having a professional manner with an emphasis on client service.
 
-#### Private Physics and Math Teacher, Spain (2008 - 2012).
-
-   What I learnt:
-   
-   - Hability to break down and explaining complex problems.
-  
 ## Some other interests...
  
  Go, table tennis, films, playing music, nature, travelling...
