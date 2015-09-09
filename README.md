@@ -35,7 +35,7 @@ Due to the time I have been travelling and the great amount of people I met I ha
 
 ## Education
 
-#### Makers Academy (May 2015 - August 2015)
+#### Makers Academy (May 2015 - September 2015)
 
   What I learnt:
    
