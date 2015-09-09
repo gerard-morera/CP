@@ -49,7 +49,7 @@ Due to the time I have been travelling and the great amount of people I met I ha
    
    - Independent learner and problem-solver.
 
-#### Coursera, courses (March 2015 - May 2015)
+#### Coursera, courses (February 2015 - May 2015)
 University of California, Berkeley.
 
 - Software as a Service I.
