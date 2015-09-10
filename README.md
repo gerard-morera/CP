@@ -1,6 +1,6 @@
 ## Gerard Morera
 
-I love Ruby. I want to work as a Ruby developer. I have been hitchiking for the past few years doing all kinds of different jobs until I felt a lack of intellectual challenge. At this point I discovered coding and a high intensity new kind of journey started with it. I love building and creating and with coding I have found something that is my passion and that I can get paid for.
+I love Ruby. I want to work as a Ruby developer. I have been hitchhiking for the past few years doing all kinds of different jobs until I felt a lack of intellectual challenge. At this point I discovered coding and a high intensity new kind of journey started with it. I love building and creating and with coding I have found something that is my passion and that I can get paid for.
 
 ## Skills
 
