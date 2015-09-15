@@ -21,7 +21,7 @@ This is [Detour](https://github.com/zeus-org/detour-rails), my final project at 
 I have some comprehension of the main features of this language and am able to play with some frameworks like Angular and Ionic. [Bowling counter](https://github.com/gerard-morera/bowling-challenge) is one small program I did. I want to learn much more of it together with many different new technologies.
 
 #### Social competencies
-Due to the time I have been travelling and the great amount of people I met I have developed strong social skills, which I think make me a cheerful team player and a very positive person.
+Due to the time I have been traveling and the great amount of people I met I have developed strong social skills, which I think make me a cheerful team player and a very positive person.
 
 #### Languages
 
