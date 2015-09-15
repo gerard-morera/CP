@@ -77,7 +77,7 @@ University of Washington.
 - Computer Networks.
 
   What I learnt:
-   - How all internet layers work.
+   - How internet layers work.
 
 #### Universitat de Barcelona (2009 - 2012)
 
