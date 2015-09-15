@@ -10,7 +10,7 @@ I have a basic understanding and a serious will to deepen my knowledge in OOD, S
  
 - Ruby
 
-This is my favourite language and consequently the one I have spent most of my days studying. I love Ruby because it has a big commitment on Object Orientation, everything is an object and every action is a method call and, unlike other languages, the programmer specifies what needs to be done rather than how to do it. That makes ruby the most elegant and readable language I know. This is [Logger parser](https://github.com/gerard-morera/logger_parser) is an app that converts the information of the logger to a more readable way.
+This is my favourite language and consequently the one I have spent most of my days studying. I love Ruby because it has a big commitment on Object Orientation, everything is an object and every action is a method call and, unlike other languages, the programmer specifies what needs to be done rather than how to do it. That makes ruby the most elegant and readable language I know. This is [Logger parser](https://github.com/gerard-morera/logger_parser), an app that converts the information of the logger to a more readable way.
 
 - Rails
 
