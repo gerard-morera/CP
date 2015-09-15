@@ -10,7 +10,7 @@ I have a basic understanding and a serious will to deepen my knowledge in OOD, S
  
 - Ruby
 
-This is my favourite language and consequently the one I have spent most of my days studying. I love Ruby because it has a big commitment on Object Orientation, everything is an object and every action is a method call and, unlike other languages, the programmer specifies what needs to be done rather than how to do it. That makes ruby the most elegant and readable language I know. I find it so hard to escape from beauty...
+This is my favourite language and consequently the one I have spent most of my days studying. I love Ruby because it has a big commitment on Object Orientation, everything is an object and every action is a method call and, unlike other languages, the programmer specifies what needs to be done rather than how to do it. That makes ruby the most elegant and readable language I know. This is [Logger parser](https://github.com/gerard-morera/logger_parser) is an app that converts the information of the logger to a more readable way.
 
 - Rails
 
@@ -18,7 +18,7 @@ This is [Detour](https://github.com/zeus-org/detour-rails), my final project at 
 
 - Javascript 
 
-I have some comprehension of the main features of this languange and am able to play with some frameworks like Angular and Ionic. [Bowling counter](https://github.com/gerard-morera/bowling-challenge) is one small program I did. I want to learn much more of it together with many different new technologies.
+I have some comprehension of the main features of this language and am able to play with some frameworks like Angular and Ionic. [Bowling counter](https://github.com/gerard-morera/bowling-challenge) is one small program I did. I want to learn much more of it together with many different new technologies.
 
 #### Social competencies
 Due to the time I have been travelling and the great amount of people I met I have developed strong social skills, which I think make me a cheerful team player and a very positive person.
@@ -73,15 +73,18 @@ Harvard University.
 
 #### Coursera, courses (2014)
 University of Washington.
+
 - Computer Networks.
 
   What I learnt:
    - How all internet layers work.
 
 #### Universitat de Barcelona (2009 - 2012)
+
 - Physics.
 
   What I learnt:
+  
    - Ability to rapidly learn and adapt to new situations.
  
    - Ability to think logically and comprehend structured information, as well as recognise hidden patterns.
@@ -90,28 +93,32 @@ University of Washington.
 
 ## Experience
 
-#### Alter Orbis (2005 - 2015). Non profit organitzation.
+#### Alter Orbis (2005 - 2015). Non profit organization.
   Volunteer teacher - various subjects including Spanish, Catalan and reading the alphabet. 
   Advocate for people in economic difficulty to obtain accommodation and social support services.
 
   What I learnt:
+  
    - To understand people suffering.
 
 #### Private Physics and Math Teacher, Spain (2008 - 2014).
 
    What I learnt:
    
-   - Hability to break down and explaining complex problems.
+   - Ability to break down and explaining complex problems.
   
 #### L'Hostal, Spain (2014). Waiter.
 
   What I learnt:
-   - Work in a high pressure envioroment.
+  
+   - Work in a high-pressure environment.
 
 #### Ziggy Constructions, England (2013). Builder.
  
   What I learnt:
+  
    - Building skills.
+   
    - Ability to translate 2D drawings into 3D visuals. 
 
 #### Eau Vivante, France (2013).  Wood craftman, permaculture.
@@ -119,6 +126,7 @@ University of Washington.
   What I learnt:
 
   - The ability to think and create in three dimensions.
+  
   - Working with creativity.
 
 #### Talia Hotel, Czech Republic (2012). Hotel receptionist. 
