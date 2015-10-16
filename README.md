@@ -14,7 +14,7 @@ This is my favorite language and consequently the one I have spent most of my da
 
 - Rails
 
-This is [Detour](https://github.com/zeus-org/detour-rails), my final project at Makers. We tried to use the rails framework only as a Ruby library to build the app following the best canonical OOD procedures. All the classes are concise and decoupled following the single responsibility principle with tiny interfaces and short, explicit methods.
+This is [BetPlay](https://github.com/gerard-morera/bet_play), an app that I am currently building. It has a backend that fetches betting information from an external api and renders it to a backbone frontend. I am using rails framework only as a Ruby library to build the app following the best canonical OOD procedures. All the classes are concise and decoupled following the single responsibility principle with tiny interfaces and short, explicit methods.
 
 - Javascript 
 
