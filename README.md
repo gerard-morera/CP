@@ -14,13 +14,14 @@ This is my favorite language and consequently the one I have spent most of my da
 
 - Rails
 
-This is [BetPlay](https://github.com/gerard-morera/bet_play), an app that I am currently building. It has a backend that fetches betting information from an external api and renders it to a backbone frontend. I am using rails framework only as a Ruby library to build the app following the best canonical OOD procedures. All the classes are concise and decoupled following the single responsibility principle with tiny interfaces and short, explicit methods.
+This is [BetPlay](https://github.com/gerard-morera/bet_play). It has a backend that fetches betting information from an external api and renders it to a backbone frontend. I am using rails framework only as a Ruby library to build the app following the best canonical OOD procedures. All the classes are concise and decoupled following the single responsibility principle with tiny interfaces and short, explicit methods.
 
 - Javascript 
 
 I have some comprehension of the main features of this language and am able to play with some frameworks like Angular and Ionic. [Bowling counter](https://github.com/gerard-morera/bowling-challenge) is one small program I did. I want to learn much more of it together with many different new technologies.
 
 #### Social competencies
+
 Due to the time I have been traveling and the great amount of people I met I have developed strong social skills, which I think make me a cheerful team player and a very positive person.
 
 #### Languages
