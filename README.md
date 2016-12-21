@@ -1,4 +1,4 @@
-## [Gerard Morera](https://github.com/gerard-morera/CV) - Full Stack Web Developer
+## [Gerard Morera](https://github.com/gerard-morera/CV)
 
 I am a passionate person, a Web Developer, a traveller, a go player... But, what I love the most from this world is empathy.
 After many years of travelling I got into coding and an amazing new jorney started. 
@@ -43,17 +43,6 @@ Due to the time I have been traveling and the great amount of people I met I hav
    - Agile methodology, SCRUM, GIT.
    
    - Independent learner and problem-solver.
-
-#### Coursera, courses (February 2015 - May 2015)
-University of California, Berkeley.
-
-- Software as a Service I.
-
-- Software as a Service II.
-
-  What I learnt:
-
-   - Develop SaaS using Ruby on Rails.
  
 #### EDX, courses (2014)
 Harvard University.
@@ -87,6 +76,9 @@ University of Washington.
    - Experience of mathematical analysis and modeling.
 
 ## Experience
+
+### BetVictor, Gibraltar. 2016. Full stack Web Developer.
+  
 
 #### Alter Orbis (2005 - 2015). Non profit organization.
   Volunteer teacher - various subjects including Spanish, Catalan and reading the alphabet. 
@@ -132,6 +124,6 @@ University of Washington.
 
 ## Some other interests...
  
- Go, table tennis, films, playing music, nature, travelling...
+ Go, people, table tennis, films, playing music, nature, travelling...
 
 
