@@ -77,11 +77,14 @@ University of Washington.
 
 ## Experience
 
-### BetVictor, Gibraltar. 2016. Full stack Web Developer.
-  
+### BetVictor, Gibraltar (2016). Full stack Web Developer.
+  What I learnt:
+  - To work concurrently for horitzontal and feature teams.
+  - Develop projects under Agile methodology.
+  - Continous delivery.
 
 #### Alter Orbis (2005 - 2015). Non profit organization.
-  Volunteer teacher - various subjects including Spanish, Catalan and reading the alphabet. 
+  Volunteer teacher - various subjects including Spanish, Catalan and reading the alphabet.
   Advocate for people in economic difficulty to obtain accommodation and social support services.
 
   What I learnt:
