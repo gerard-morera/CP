@@ -17,7 +17,7 @@ I have been working with Ruby and Javascript for one year and I am really intere
 
 - Version control: Git, Github.
 
-#### Social competencies
+#### Social Competencies
 
 Due to the length of time I've travelled and the amount of people that I've met along the way, I've developed very good social skills. I believe these skills make me a cheerful team player, and a very positive person in general.
 
