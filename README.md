@@ -10,8 +10,11 @@ I have been working with Ruby and Javascript for one year and I am really intere
 ### Sofware Development
 
 - Languages: Ruby, Javascript.
+
 - Frameworks: Rails, Sinatra, Backbone, Angular.
+
 - Project management: Agile, Scrum, Jira.
+
 - Version control: Git, Github.
 
 #### Social competencies
