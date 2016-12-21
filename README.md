@@ -1,9 +1,9 @@
 ## [Gerard Morera](https://github.com/gerard-morera/CV)
 
-I am a passionate person, a Web Developer, a traveller, a go player... But, what I love the most from this world is empathy.
-After many years of travelling I got into coding and an amazing new jorney started. 
+I am a passionate person, a Web Developer, a traveler, a go player... But, what I love the most from this world is empathy.
+After many years of traveling I got into coding and an amazing new journey started. 
 
-I have been working with Ruby and Javascript for one year and I am really interested in design patterns and any kind of abstractions. I have spent most time of my short career deeping into Object Oriented Design but lately I got very enthusiastic about the functional paradigm.
+I have been working with Ruby and Javascript for one year and I am really interested in design patterns and any kind of abstractions. I have spent most time of my short career deepening into Object Oriented Design but lately I got very enthusiastic about the functional paradigm.
 
 ## Skills
 
