@@ -1,25 +1,18 @@
-## [Gerard Morera](https://github.com/gerard-morera/CV)
+## [Gerard Morera](https://github.com/gerard-morera/CV) - Full Stack Web Developer
 
-I love Ruby. I want to work as a Ruby developer. I have been hitchhiking for the past few years doing all kinds of different jobs until I felt a lack of intellectual challenge. At this point I discovered coding and a high intensity new kind of journey started with it. I love building and creating and with coding I have found something that is my passion and that I can get paid for.
+I am a passionate person, a Web Developer, a traveller, a go player... But, what I love the most from this world is empathy.
+After many years of travelling I got into coding and an amazing new jorney started. 
+
+I have been working with Ruby and Javascript for one year and I am really interested in design patterns and any kind of abstractions. I have spent most time of my short career deeping into Object Oriented Design but lately I got very enthusiastic about the functional paradigm.
 
 ## Skills
 
-#### Full Stack Developer
+### Sofware Development
 
-I have a basic understanding and a serious will to deepen my knowledge in OOD, SOLID principles and design patterns. My goal is to produce beautiful code that I can be proud of.
- 
-- Ruby
-
-This is my favorite language and consequently the one I have spent most of my days studying. I love Ruby because it has a big commitment on Object Orientation, everything is an object and every action is a method call and, unlike other languages, the programmer specifies what needs to be done rather than how to do it. That makes ruby the most elegant and readable language I know. This is [altmetric](https://github.com/gerard-morera/altmetric/tree/master/01-problem), an app that parses different files and combines its information in different formats and this is [combined_enumerator](https://github.com/gerard-morera/combined_enumerator) a class that takes a finite/infinite number of enumerators an orders their values in ascending order.
-
-- Rails
-
-This is [BetPlay](https://github.com/gerard-morera/bet_play). This app fetches live sport information from a third party API, parses and organize it. Then, a Backbone front end provides the user with an easy-to-use interface in order to view the data. 
-I am using rails framework only as a Ruby library to build the app following the best canonical OOD procedures. All the classes are concise and decoupled following the single responsibility principle with tiny interfaces and short, explicit methods.
-
-- Javascript 
-
-I have some comprehension of the main features of this language and am able to play with some frameworks like Backbone, Angular and Ionic. [Bowling counter](https://github.com/gerard-morera/bowling-challenge) is one small program I did. I want to learn much more of it together with many different new technologies.
+- Languages: Ruby, Javascript.
+- Frameworks: Rails, Sinatra, Backbone, Angular.
+- Project management: Agile, Scrum, Jira.
+- Version control: Git, Github.
 
 #### Social competencies
 
