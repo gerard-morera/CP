@@ -24,7 +24,7 @@ Due to the time I have been traveling and the great amount of people I met I hav
 
 - Catalan: Native.
  
-- English: Fluent.
+- English: Full professional proficiency.
  
 - French:  Intermediate level.
 
@@ -79,8 +79,11 @@ University of Washington.
 
 ### BetVictor, Gibraltar (2016). Full stack Web Developer.
   What I learnt:
+  
   - To work concurrently for horitzontal and feature teams.
+  
   - Develop projects under Agile methodology.
+  
   - Continous delivery.
 
 #### Alter Orbis (2005 - 2015). Non profit organization.
