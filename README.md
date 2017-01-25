@@ -18,6 +18,36 @@ I have been working with Ruby and Javascript for one year and I am really intere
 
 - TDD, BDD, continous delivery.
 
+## Experience
+
+### BetVictor, Gibraltar (2016). Full stack Web Developer.
+
+   Main activities and responsibilities:
+  
+  - To work concurrently for horitzontal and feature teams with continus integration.
+  
+  - Back-end development of the company's main web application and side projects using Ruby on Rails and Javascript frameworks (Backbone.js, Angular.js) as part of an agile team.
+  
+  - Front-end development of the company’s main web-based mobile application built using the Backbone.js framework.
+  
+  - Active collaboration in team coordination, code releases and the application design.
+  
+  - Main projects: New streaming service, BetFinder.
+
+#### Alter Orbis (2005 - 2015). Non profit organization.
+  Volunteer teacher - various subjects including Spanish, Catalan and reading the alphabet.
+  Advocate for people in economic difficulty to obtain accommodation and social support services.
+
+  What I learnt:
+  
+   - To understand people suffering.
+
+#### Private Physics and Math Teacher, Spain (2008 - 2014).
+
+   What I learnt:
+   
+   - Ability to break down and explaining complex problems.
+
 #### Social Competencies
 
 Due to the length of time I've travelled and the amount of people that I've met along the way, I've developed very good social skills. I believe these skills make me a cheerful team player, and a very positive person in general.
@@ -79,41 +109,6 @@ University of Washington.
  
    - Experience of mathematical analysis and modeling.
 
-## Experience
-
-### BetVictor, Gibraltar (2016). Full stack Web Developer.
-
-   Main activities and responsibilities:
-  
-  - To work concurrently for horitzontal and feature teams with continus integration.
-  
-  - Back-end development of the company's main web application and side projects using Ruby on Rails and Javascript frameworks (Backbone.js, Angular.js) as part of an agile team.
-  
-  - Front-end development of the company’s main web-based mobile application built using the Backbone.js framework.
-  
-  - Active collaboration in team coordination, code releases and the application design.
-  
-  - Main projects: New streaming service, BetFinder.
-
-#### Alter Orbis (2005 - 2015). Non profit organization.
-  Volunteer teacher - various subjects including Spanish, Catalan and reading the alphabet.
-  Advocate for people in economic difficulty to obtain accommodation and social support services.
-
-  What I learnt:
-  
-   - To understand people suffering.
-
-#### Private Physics and Math Teacher, Spain (2008 - 2014).
-
-   What I learnt:
-   
-   - Ability to break down and explaining complex problems.
-
-#### Talia Hotel, Czech Republic (2012). Hotel receptionist. 
-
-  What I learnt:
-  
-   - Having a professional manner with an emphasis on client service.
 
 ## Some other interests...
  
