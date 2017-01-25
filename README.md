@@ -1,7 +1,6 @@
 ## [Gerard Morera](https://github.com/gerard-morera/CV)
 
-I am a passionate person, a web developer, a traveller, a Go player... However what I love the most from this world is empathy.
-After many years of travelling I got into coding and an amazing new journey started. 
+I am a passionate person, a web developer, a traveller, a Go player... After many years of travelling I got into coding and an amazing new journey started. 
 
 I have been working with Ruby and Javascript for one year and I am really interested in the best coding practices, design patterns and any kind of abstraction. Most of my career has been spent concentrating on Object Orientated Design, however lately I've become very interested and enthusiastic about functional paradigm.
 
@@ -16,6 +15,8 @@ I have been working with Ruby and Javascript for one year and I am really intere
 - Project management: Agile, Scrum, Jira.
 
 - Version control: Git, Github.
+
+- TDD, BDD, continous delivery.
 
 #### Social Competencies
 
@@ -81,13 +82,18 @@ University of Washington.
 ## Experience
 
 ### BetVictor, Gibraltar (2016). Full stack Web Developer.
-  What I learnt:
+
+   Main activities and responsibilities:
   
-  - To work concurrently for horitzontal and feature teams.
+  - To work concurrently for horitzontal and feature teams with continus integration.
   
-  - Develop projects under Agile methodology.
+  - Back-end development of the company's main web application and side projects using Ruby on Rails and Javascript frameworks (Backbone.js, Angular.js) as part of an agile team.
   
-  - Continous delivery.
+  - Front-end development of the company’s main web-based mobile application built using the Backbone.js framework.
+  
+  - Active collaboration in team coordination, code releases and the application design.
+  
+  - Main projects: New streaming service, BetFinder.
 
 #### Alter Orbis (2005 - 2015). Non profit organization.
   Volunteer teacher - various subjects including Spanish, Catalan and reading the alphabet.
@@ -102,28 +108,6 @@ University of Washington.
    What I learnt:
    
    - Ability to break down and explaining complex problems.
-  
-#### L'Hostal, Spain (2014). Waiter.
-
-  What I learnt:
-  
-   - Work in a high-pressure environment.
-
-#### Ziggy Constructions, England (2013). Builder.
- 
-  What I learnt:
-  
-   - Building skills.
-   
-   - Ability to translate 2D drawings into 3D visuals. 
-
-#### Eau Vivante, France (2013).  Wood craftman, permaculture.
-
-  What I learnt:
-
-  - The ability to think and create in three dimensions.
-  
-  - Working with creativity.
 
 #### Talia Hotel, Czech Republic (2012). Hotel receptionist. 
 
