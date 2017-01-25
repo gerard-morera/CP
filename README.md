@@ -18,6 +18,20 @@ I have been working with Ruby and Javascript for one year and I am really intere
 
 - TDD, BDD, continous delivery.
 
+#### Social Competencies
+
+Due to the length of time I've travelled and the amount of people that I've met along the way, I've developed very good social skills. I believe these skills make me a cheerful team player, and a very positive person in general.
+
+#### Languages
+
+- Spanish: Native.
+
+- Catalan: Native.
+ 
+- English: Full professional proficiency.
+ 
+- French:  Intermediate level.
+
 ## Experience
 
 ### BetVictor, Gibraltar (2016). Full stack Web Developer.
@@ -47,20 +61,6 @@ I have been working with Ruby and Javascript for one year and I am really intere
    What I learnt:
    
    - Ability to break down and explaining complex problems.
-
-#### Social Competencies
-
-Due to the length of time I've travelled and the amount of people that I've met along the way, I've developed very good social skills. I believe these skills make me a cheerful team player, and a very positive person in general.
-
-#### Languages
-
-- Spanish: Native.
-
-- Catalan: Native.
- 
-- English: Full professional proficiency.
- 
-- French:  Intermediate level.
 
 ## Education
 
