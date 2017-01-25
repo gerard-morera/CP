@@ -38,7 +38,7 @@ Due to the length of time I've travelled and the amount of people that I've met 
 
    Main activities and responsibilities:
   
-  - To work concurrently for horitzontal and feature teams using continuous integration.
+  - To work concurrently for horitzontal and feature teams using continuous delivery.
   
   - Back-end development of the company's main web application and side projects using Ruby on Rails and Javascript frameworks (Backbone.js, Angular.js) as part of an agile team.
   
