@@ -2,7 +2,7 @@
 
 I am a passionate person, a web developer, a traveller, a Go player... After many years of travelling I got into coding and an amazing new journey started. 
 
-I have been working with Ruby and Javascript for one year and I am really interested in the best coding practices, design patterns and any kind of abstraction. Most of my career has been spent concentrating on Object Orientated Design, however lately I've become very interested and enthusiastic about functional paradigm.
+I like following the best coding practices so to create aesthetic, readable, reusable and well designed pieces of code. Lately I am getting much more interested in the functional paradigm for that reason I started stuying elixir.
 
 ## Skills
 
@@ -42,9 +42,9 @@ Due to the length of time I've travelled and the amount of people that I've met 
    
    - Daily analisis of possible incidents with payments in production.
    
-   - Design together with other team members architectural solutions for new features implementations.
+   - Design, together with other team members, architectural solutions for new features implementations.
    
-   - Main projects: New loyalty program
+   - Main projects: New loyalty program.
 
 ### BetVictor, Gibraltar (2016). Full stack Web Developer.
 
