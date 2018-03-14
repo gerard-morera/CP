@@ -8,15 +8,15 @@ I have been working with Ruby and Javascript for one year and I am really intere
 
 ### Sofware Development
 
-- Languages: Ruby, Javascript.
+- Languages: Ruby, Javascript, Elixir (only fundamentals).
 
 - Frameworks: Rails, Sinatra, Backbone, Angular.
 
 - Project management: Agile, Scrum, Jira.
 
-- Version control: Git, Github.
+- TDD, continous delivery.
 
-- TDD, BDD, continous delivery.
+- Other technical skills: Rescue, mysql, redis, unicorn, new relic, splunk, git...
 
 #### Social Competencies
 
@@ -33,6 +33,18 @@ Due to the length of time I've travelled and the amount of people that I've met 
 - French:  Intermediate level.
 
 ## Experience
+
+### Rakuten TV, Barcelona (2017 - 2018). Back-end Developer.
+   
+   Main activities and responsibilities:
+   
+   - Developing, mantaining and refactoring code for the back-end payments team.
+   
+   - Daily analisis of possible incidents with payments in production.
+   
+   - Design together with other team members architectural solutions for new features implementations.
+   
+   - Main projects: New loyalty program
 
 ### BetVictor, Gibraltar (2016). Full stack Web Developer.
 
