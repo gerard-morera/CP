@@ -64,7 +64,7 @@ Due to the length of time I've travelled and the amount of people that I've met 
 
   What I learnt:
   
-   - To understand people suffering.
+   - To empathy and understand people suffering.
 
 #### Private Physics and Math Teacher, Spain (2008 - 2014).
 
