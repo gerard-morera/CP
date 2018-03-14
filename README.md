@@ -1,8 +1,6 @@
 ## [Gerard Morera](https://github.com/gerard-morera/CV)
 
-I am a passionate person, a web developer, a traveller, a Go player... After many years of travelling I got into coding and an amazing new journey started. 
-
-I like following the best coding practices so to create aesthetic, readable, reusable and well designed pieces of code. Lately I am getting much more interested in the functional paradigm for that reason I started stuying elixir.
+Software developer, Go player, musician, traveller and basically a very passionate person. After many years of studying and travelling I got into coding and a beautiful new journey started. I am a follower of coding best practices so to create aesthetic, readable, reusable and well designed pieces of code. Lately I am getting much more interested in the functional paradigm, for that reason I have started stuying elixir.
 
 ## Skills
 
