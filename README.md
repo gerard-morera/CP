@@ -14,7 +14,7 @@ Software developer, Go player, musician, traveller and basically a very passiona
 
 - TDD, continous delivery.
 
-- Other technical skills: Rescue, mysql, redis, unicorn, new relic, splunk, git...
+- Other technical skills: Rescue, mysql, redis, unicorn, new relic, rollbar, splunk, git...
 
 #### Social Competencies
 
